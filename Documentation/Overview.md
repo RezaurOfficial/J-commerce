@@ -1,4 +1,4 @@
-# J Commerce
+# J-commerce
 
 ---
-J commerce is a java based e-commerce platform.
+J-commerce is a java based e-commerce platform.
